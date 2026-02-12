@@ -1,0 +1,2 @@
+# Newsleter
+simple newsletter page
